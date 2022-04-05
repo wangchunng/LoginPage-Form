@@ -1,0 +1,67 @@
+* {
+    padding: 0.1em;
+}
+.fields {
+    background-color: lightblue;
+    
+}
+
+form {
+    background-color: rgb(93, 93, 207);
+    border-radius: 2%;
+    margin: 13px;
+}
+
+div{
+    padding: 15px;
+    width: 700px;
+    margin: 0 auto;
+}
+
+.RM{
+    color: white;
+}
+
+
+.EmailQ, .passwordQ{
+    color: lightblue;
+    font-weight: bolder;
+}
+
+.passwordA, .emailA{
+    align-items: center;
+    width: 45%;
+}
+
+.LogIn{
+    color: blue;
+}
+
+.LogIn{
+    align-items: center;
+}
+
+.checkbox, .LogIn{
+    display: flex;
+}
+
+.RememberA{
+    color: white;
+}
+
+form{
+    padding-inline-start: 110px;
+}
+
+.paddingInline{
+    padding-inline-start: 30px
+}
+
+.Login{
+    margin-inline-start: 110px ;
+}
+
+.Login1{
+    min-width: 160px;
+    color: blue;
+}
